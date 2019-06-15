@@ -26,8 +26,7 @@ Pi-hole automated installer does not support ArchLinux. Running Pi-hole on Arch-
 The script provided in this page is intended to automate Pi-hole installation on ArcoLinux/ArchLinux systems. 
 
 - Peform a fresh install of ArcoLinuxD (for a dedicated Ad-Blocker system), or ArchLinux.
-- Clone this repository to your system
-  - ```
+- Clone this repository to your system ```
 git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
 cd "Pi-hole/automated install/"
 sudo bash basic-install.sh
