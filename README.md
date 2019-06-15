@@ -1,4 +1,4 @@
-### Network-wide AD blocking via your own Linux hardware
+### Network-wide AD Blocking via Pi-Hole on ArcoLinux
 
 <p align="left">
 
