@@ -1,7 +1,5 @@
 <p align="left">
 
-<b>Network-wide ad blocking via your own Linux hardware</b>
-
 <a href="http://www.arcolinux.com" alt="ArcoLinux">
 <img src=".scrots/arcolinux_website.png" width="150" height="150" alt="Pi-hole">
 </a>
@@ -13,6 +11,9 @@
 <img src=".scrots/adblocking.jpg" width="150" height="150" alt="No Ads">
 
 <br/>
+
+<b>Network-wide ad blocking via your own Linux hardware</b><br/>
+
 
 </p>
 
