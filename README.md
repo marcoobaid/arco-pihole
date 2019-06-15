@@ -14,11 +14,8 @@
 
 <br/>
 
-<b>Network-wide ad blocking via your own Linux hardware</b><br/>
-
-
 </p>
 
 
-# arch-pihole
+# Network-wide ad blocking via your own Linux hardware
 Pi-hole Install Script for ArchLinux
