@@ -1,4 +1,4 @@
-## Network-wide ad blocking via your own Linux hardware
+### Network-wide AD blocking via your own Linux hardware
 
 <p align="left">
 
