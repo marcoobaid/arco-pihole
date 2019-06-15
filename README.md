@@ -23,4 +23,4 @@ The Pi-hole[®](https://pi-hole.net/trademark-rules-and-brand-guidelines/) is a 
 ## Automated Install For ArcoLinux (ArchLinux)
 Pi-hole automated installer does not support ArchLinux. Running Pi-hole on Arch-based systems entails installing Pi-hole via AUR respository, in addition to some related depedencies. Instructions are detailed in <a href="https://wiki.archlinux.org/index.php/Pi-hole">ArchWiki Pi-hole page</a>.
 
-The script provided in this page is intended to automate Pi-hole installation. 
+The script provided in this page is intended to automate Pi-hole installation on ArcoLinux/ArchLinux systems. 
