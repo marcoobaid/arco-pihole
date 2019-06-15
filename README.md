@@ -1,3 +1,5 @@
+<b>Network-wide ad blocking via your own Linux hardware</b><br/>
+
 <p align="left">
 
 <a href="http://www.arcolinux.com" alt="ArcoLinux">
