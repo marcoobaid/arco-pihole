@@ -1,4 +1,4 @@
-<b>Network-wide ad blocking via your own Linux hardware</b><br/>
+## Network-wide ad blocking via your own Linux hardware
 
 <p align="left">
 
@@ -17,5 +17,4 @@
 </p>
 
 
-# Network-wide ad blocking via your own Linux hardware
 Pi-hole Install Script for ArchLinux
