@@ -44,7 +44,7 @@ As a last resort, you can always manually set each device to use Pi-hole as thei
 
 -----
 
-### The Web Interface Dashboard
+## The Web Interface Dashboard
 This [optional dashboard](https://github.com/pi-hole/AdminLTE) allows you to view stats, change settings, and configure your Pi-hole. It's the power of the Command Line Interface, with none of the learning curve!
 
 <img src="https://pi-hole.github.io/graphics/Screenshots/pihole-dashboard.png"  alt="Pi-hole Dashboard"/></a>
