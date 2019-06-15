@@ -40,3 +40,11 @@ If your router does not support setting the DNS server, you can [use Pi-hole's b
 
 As a last resort, you can always manually set each device to use Pi-hole as their DNS server.
 
+## Resources
+- [Pi-hole](https://pi-hole.net)
+- [Pi-hole ArchWiki](https://wiki.archlinux.org/index.php/Pi-hole)
+- [The Big Blocklist Collection](https://wally3k.github.io)
+- [Pie in the Sky-Hole](https://dlaa.me/blog/post/skyhole)
+- [Copernicus: Windows Tray Application](https://github.com/goldbattle/copernicus)
+- [Magic Mirror with DNS Filtering](https://zonksec.com/blog/magic-mirror-dns-filtering/#dnssoftware)
+- [Windows DNS Swapper](https://github.com/roots84/DNS-Swapper)
