@@ -40,6 +40,28 @@ If your router does not support setting the DNS server, you can [use Pi-hole's b
 
 As a last resort, you can always manually set each device to use Pi-hole as their DNS server.
 
+### The Web Interface Dashboard
+This [optional dashboard](https://github.com/pi-hole/AdminLTE) allows you to view stats, change settings, and configure your Pi-hole. It's the power of the Command Line Interface, with none of the learning curve!
+
+<img src="https://pi-hole.github.io/graphics/Screenshots/pihole-dashboard.png"  alt="Pi-hole Dashboard"/></a>
+
+Some notable features include:
+* Mobile friendly interface
+* Password protection
+* Detailed graphs and doughnut charts
+* Top lists of domains and clients
+* A filterable and sortable query log
+* Long Term Statistics to view data over user-defined time ranges
+* The ability to easily manage and configure Pi-hole features
+* ... and all the main features of the Command Line Interface!
+
+There are several ways to [access the dashboard](https://discourse.pi-hole.net/t/how-do-i-access-pi-holes-dashboard-admin-interface/3168):
+
+1. `http://<IP_ADDPRESS_OF_YOUR_PI_HOLE>/admin/`
+2. `http://pi.hole/admin/` (when using Pi-hole as your DNS server)
+3. `http://pi.hole/` (when using Pi-hole as your DNS server)
+
+
 ## Resources
 - [Pi-hole](https://pi-hole.net)
 - [Pi-hole ArchWiki](https://wiki.archlinux.org/index.php/Pi-hole)
