@@ -30,5 +30,5 @@ The script provided in this page is intended to automate Pi-hole installation on
 ```
 git clone https://github.com/marcoobaid/arch-pihole Pi-hole
 cd "Pi-hole"
-./basic-install.sh
+./install-pi-hole-server-v1.sh
 ```
